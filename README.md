@@ -1,4 +1,4 @@
-# Formal Agent for Model Checking Software
+# A Formal Agent for Model Checking Software
 
 - A LangChain (https://www.langchain.com) AI agent implementation calling a local model checker to temporal model check concurrent implementations expressed with a finite state machine description.
 - The agent calls a local model checker binary and then summaries the result of the model checking.
