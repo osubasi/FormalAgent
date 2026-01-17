@@ -6,3 +6,4 @@
 - I used OpenRouter (https://openrouter.ai) as a free API provider.
 - I used a Mistral AI (https://mistral.ai) LLM as the reasoning model.
 - I used ChatGPT (https://chatgpt.com/) for the most of the implementation.
+- This is a basic sample implementation.
