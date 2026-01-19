@@ -6,7 +6,7 @@
   - NuSMV (https://nusmv.fbk.eu) as a symbolic model checker which is based on Binary Decision Diagrams (BDDs).
   - OpenRouter (https://openrouter.ai) as a free API provider.
   - A Mistral AI (https://mistral.ai) LLM as the reasoning model.
-  - ChatGPT (https://chatgpt.com/) for the most of the functionalities of the implementation which includes guardrails.
+  - ChatGPT (https://chatgpt.com/) for the most of the functionalities of the implementations which include guardrails.
 - The user only needs to provide the name of the program (.smv) or a directory that is to be model checked.
 - The implementations are
     - FormalAgent.ipynb is designed for a single program.
