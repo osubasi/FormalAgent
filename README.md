@@ -1,4 +1,4 @@
-# Formal Agents for Model Checking Software
+# Formal Agents for Model Checking Concurrent Programs
 
 - Two LangChain (https://www.langchain.com) AI agent implementations calling a local model checker to temporal model check concurrent implementations expressed with a finite state machine description.
     - FormalAgent.ipynb is designed for a single program.
